@@ -1,0 +1,16 @@
+Locales['es'] = {
+  ['shop_robbery'] = 'Atraco a Armería',
+  ['xp1robo_pulsar'] = 'Pulsa ~INPUT_CONTEXT~ para robar ~b~%s~s~',
+  ['xp1robo_temporizador'] = 'Atraco a Armería: ~r~%s~s~ segundos restantes',
+  ['xp1robo__robado'] = 'Esta Armería ya ha sido robada. Espera ~y~%s~s~ antes de poder robarla de nuevo',
+  ['xp1robo_enprogreso'] = 'Robo en proceso a ~b~%s~s~',
+  ['xp1robo_iniciado'] = 'Has empezado a robar la Armería',
+  ['xp1robo_saltoalarma'] = 'La alarma ha sido activada!',
+  ['xp1robo_completado'] = '~r~El robo salió bien~s~. ~o~Corre!~s~',
+  ['xp1robo_completadoen'] = '~r~Robo finalizado en ~y~%s~s~',
+  ['xp1robo_cancelado'] = 'El robo ha sido cancelado!',
+  ['xp1robo_canceladoen'] = 'El robo de Armería ha sido cancelado!',
+  ['xp1robo_minlspd'] = 'Se necesitan ~b~%s policias~s~ de servicio para poder robar.',
+  ['xp1robo_yahayotrorobo'] = '~r~Ya hay un robo en progreso.',
+  ['xp1robo_noarma'] = 'Sin pistola el encargado de la Armería no te tiene miedo...',
+}
